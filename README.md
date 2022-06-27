@@ -14,9 +14,8 @@
 
 ## 专业技能
 
-* 熟练使用 Java，掌握C语言，了解 Python、c#等编程语言
-* 熟练使用JSP、JavaScript、SSM框架
-* 了解Vue、Redis的基本使用
+* 熟练使用 Java，掌握C语言，了解 Python等编程语言
+* 熟练使用HTML、CSS、JSP、JavaScript、SSM框架
 * 掌握基础数据结构和算法的基本原理
 * 等等
 
